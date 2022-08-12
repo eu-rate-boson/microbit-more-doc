@@ -1,14 +1,10 @@
 # Development Information
 
-Microbit More is developing on the two repositories, 'Scratch Extension' and 'MakeCode Extension'.
-
-Please report of issues or improvements 'Scratch Extension' repository.
+Boson is developing on the two repositories, 'Scratch Extension'.
 
 ## Code Repository
 
-Microbit More is developing on the following repositories.
+Boson is developing on the following repositories.
 
-Scratch Extension : https://github.com/microbit-more/mbit-more-v2
-
-MakeCode Extension : https://github.com/microbit-more/pxt-mbit-more-v2
+Scratch Extension : https://github.com/eu-rate-boson/mbit-more-v2
 

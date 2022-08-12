@@ -1,8 +1,7 @@
 ----
-* [What is](/ "What is Microbit More")
-* [How to Use](how-to-use "How to Use Microbit More")
-* [Examples of Use](examples "Examples of Microbit More")
-* [How to Extent](how-to-extent "How to Extent Microbit More")
-* [Development](development "Development of Mcirobit More")
+* [What is](/ "What is Boson")
+* [How to Use](how-to-use "How to Use Boson")
+* [Examples of Use](examples "Examples of Boson")
+* [How to Extent](how-to-extent "How to Extent Boson")
+* [Development](development "Development of Boson")
 ----
-<a href="/docs/ja/" target="_self">日本語</a>
