@@ -1,4 +1,4 @@
-# Extend Mcrobit More
+# Extend Microbit More
 
 You can freely extend the functions on the micro:bit side using MakeCode, and use them from Scratch via a data transfer block.
 
