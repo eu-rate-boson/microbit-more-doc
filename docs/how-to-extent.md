@@ -1,5 +1,7 @@
 # Extend Microbit More
 
+(for more informations on this Makecode-Scratch collaboration visit [Microbit More](https://microbit-more.github.io/)
+
 You can freely extend the functions on the micro:bit side using MakeCode, and use them from Scratch via a data transfer block.
 
 The micro:bit communicates with Scratch by sending and receiving labeled data between the micro:bit and Scratch. The limitations of data communication are as follows
